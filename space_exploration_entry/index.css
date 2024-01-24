@@ -1,0 +1,31 @@
+body{
+    color: #82a5ca;
+    /* background-image:url("galaxy.webp"); */
+    margin:0px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+h1{
+    text-shadow: 0px 0px 4px black;
+}
+.hero{
+    background-image:url("galaxy.webp");
+    background-size: cover;
+    padding:40px 0px 750px 0px;
+}
+.space_btn{
+    color: #82a5ca;
+    padding:8px 20px;
+    background-color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+}
+.cfa{
+    
+    border-bottom: 5px solid white;
+}
+#main_logo{
+    width:200px;
+    height:110px;
+}
+
