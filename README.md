@@ -6,4 +6,4 @@
   
 * [Space Exploration Frontend ](https://spacexplorationn.netlify.app/)
   
-* [PokeDex Store](https://pokedexcardsweb.netlify.app/)
+* [PokeDex Store](https://pokedexcardsweb.netlify.app)
