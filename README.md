@@ -5,5 +5,5 @@
 * [Personal Buisness Card](https://akshatbuisnesscard.netlify.app)
 * 
 * [Space Exploration Frontend ](https://spacexplorationn.netlify.app/)
-* 
-* [PokeDex Store] (pokedexcardsweb.netlify.app)
+  
+* [PokeDex Store](pokedexcardsweb.netlify.app)
